@@ -1,9 +1,6 @@
 #import <Cordova/CDV.h>
 #import <MobileCoreServices/MobileCoreServices.h>
-
-#define SHAREEXT_GROUP_IDENTIFIER @"__GROUP_IDENTIFIER__"
-#define SHAREEXT_URL_SCHEME @"__URL_SCHEME__"
-#define SHAREEXT_UNIFORM_TYPE_IDENTIFIER @"__UNIFORM_TYPE_IDENTIFIER__"
+#import "ShareViewController.h"
 
 /*
  * Add base64 export to NSData
