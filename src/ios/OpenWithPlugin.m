@@ -1,6 +1,7 @@
 #import <Cordova/CDV.h>
 #import <MobileCoreServices/MobileCoreServices.h>
-#import "ShareViewController.h"
+
+#define SHAREEXT_GROUP_IDENTIFIER @"group.com.bial.vhqoutdev01.openwith.shareextension"
 
 /*
  * Add base64 export to NSData
